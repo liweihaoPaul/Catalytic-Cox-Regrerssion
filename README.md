@@ -1,6 +1,6 @@
 # Catalytic-Cox-Regrerssion
 
-In this repo, we implement the methods we used in the paper (reference). 
+In this repo, we implement the methods we used in the paper ('Bayesian inference on Cox regression models using catalytic prior distributions'). Simulation and real data code can be found in 'Catalytic-Cox-Regrerssion-code.zip'. 
 
 ## Point estimation
 By sourceing the file "point_estimation_cat.R", we have function for computing following two estimators:
